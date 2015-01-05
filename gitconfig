@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = aliceclavel@wanadoo.fr
+	name = alice clavel

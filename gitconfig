@@ -49,3 +49,5 @@
 [user]
 	email = aliceclavel@wanadoo.fr
 	name = alice clavel
+[branch "master"]
+	mergeoptions = --no-edit

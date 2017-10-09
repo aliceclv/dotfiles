@@ -47,7 +47,7 @@
 [push]
 	default = simple
 [user]
-	email = aliceclavel@wanadoo.fr
-	name = alice clavel
+	email = alice@lewagon.org
+	name = Alice Clavel
 [branch "master"]
 	mergeoptions = --no-edit
